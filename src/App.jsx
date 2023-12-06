@@ -45,6 +45,8 @@ const App = () => {
 
   return (
     <div className="app">
+      <h3>Castañeda,Aries S.</h3>
+      <h3>Marcelino,Kenjie Divo T.</h3>
       <h1>Memory Game</h1>
       <div className="card-container">
         {cards.map((card, index) => (
